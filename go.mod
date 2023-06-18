@@ -1,3 +1,3 @@
-module github.com/mateusgms/abundance-path
+module AbundancePath
 
 go 1.20
